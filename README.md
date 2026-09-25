@@ -7,7 +7,7 @@
 A C++ terminal client for interacting with a local Llama-based AI language model server, featuring context-aware conversations with memory persistence and performance metrics.
 
 [![License: Apache-2.0](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
-[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/bniladridas/memoraxx)
+[![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/coccinella-labs/memoraxx)
 [![C++20](https://img.shields.io/badge/C%2B%2B-20-blue)](https://isocpp.org/std/the-standard)
 
 ## Overview
@@ -43,7 +43,7 @@ memoraxx is a lightweight, terminal-based application designed to interact with 
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/bniladridas/memoraxx.git
+   git clone https://github.com/coccinella-labs/memoraxx.git
    cd memoraxx
    ```
 

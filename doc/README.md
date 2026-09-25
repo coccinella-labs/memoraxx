@@ -44,7 +44,7 @@ Ensure vcpkg is integrated with Visual Studio.
 
 Clone the repository and build:
 ```bash
-git clone https://github.com/bniladridas/memoraxx.git
+git clone https://github.com/coccinella-labs/memoraxx.git
 cd memoraxx
 ./build.sh
 ```
